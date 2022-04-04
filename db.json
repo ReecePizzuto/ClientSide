@@ -6,7 +6,7 @@
       "details": "This house of character is tucked away in an alley .............",
       "price": 500000,
       "town": "Paola",
-      "finished": flase
+      "finished": false
     },
     {
       "id": 2,
